@@ -1,30 +1,43 @@
-# Vineeth Kumar
+<a href="https://me.xeea.net/">
+  <img src="https://raw.githubusercontent.com/foxcornlab/foxcornlab/main/linkedin-banner-shield-v3.png" alt="Finding security gaps in web, APIs and AI" width="100%" />
+</a>
 
-**Cybersecurity consultant · Founder at XEEA**
+<p align="center">
+  <a href="https://me.xeea.net/">Portfolio</a> &nbsp; · &nbsp;
+  <a href="https://me.xeea.net/impact">Selected work</a> &nbsp; · &nbsp;
+  <a href="https://threat.enjoyxd.eu.org/">Research</a> &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/vineeth-kumar-xeea/">LinkedIn</a> &nbsp; · &nbsp;
+  <a href="mailto:vi@xeea.net">Get in touch</a>
+</p>
 
-I work on web and API security, red teaming, and security audits. I like understanding how systems work, finding where they break, and helping teams fix the underlying problems.
+I’m Vineeth, an independent cybersecurity consultant based in Bengaluru. I test applications, investigate security gaps, and help teams fix them.
 
-I founded [XEEA](https://xeea.net/) in August 2019. Alongside that, I take on freelance security engagements and publish technical research.
+I also founded [XEEA](https://xeea.net/) in August 2019, a separate SaaS product venture. My freelance consulting is independent of XEEA.
 
 ### What I work on
 
-- **Application security:** black-box and white-box testing, API assessments, and source code review.
-- **Enterprise security:** Active Directory, network assessments, and practical remediation.
-- **AI security:** prompt injection, data exposure, and security risks in AI-assisted workflows.
-- **Infrastructure:** IoT, RPA, firewalls, and access controls.
-
-### Selected work
-
-My engagements have included AI platform audits, IoT infrastructure hardening, RPA security reviews, and enterprise security remediation. You can read the details on my [impact page](https://me.xeea.net/impact).
+- **Web & API security** — penetration testing, authentication reviews, and source code review.
+- **Red teaming & infrastructure** — Active Directory, networks, IoT, and access controls.
+- **AI security** — prompt injection and data exposure in AI-assisted workflows.
+- **Robotics & firmware** — ongoing consulting with Tuesday Labs on firmware reverse engineering and AI voice integration.
 
 ### Research & writing
 
-- [White-box web application pentesting — PHP](https://threat.enjoyxd.eu.org/blog/whitebox-web-application-pentesting)
-- [Google Antigravity — prompt injection and data exfiltration research](https://threat.enjoyxd.eu.org/blog/google-antigravity-data-exfiltration)
-- [More technical write-ups](https://threat.enjoyxd.eu.org/)
+<table>
+<tr>
+<td width="50%">
+<a href="https://threat.enjoyxd.eu.org/blog/whitebox-web-application-pentesting"><img src="https://raw.githubusercontent.com/foxcornlab/foxcornlab/main/featured-php.png" alt="Web application pentesting — PHP security write-up" width="100%" /></a>
+<br />
+<strong>White-box web application pentesting</strong><br />
+Finding OS command injection in a PHP application.
+</td>
+<td width="50%">
+<a href="https://threat.enjoyxd.eu.org/blog/google-antigravity-data-exfiltration"><img src="https://raw.githubusercontent.com/foxcornlab/foxcornlab/main/featured-ai.png" alt="AI security research — Google Antigravity" width="100%" /></a>
+<br />
+<strong>Google Antigravity security research</strong><br />
+Indirect prompt injection and data exfiltration risks.
+</td>
+</tr>
+</table>
 
-### Get in touch
-
-Based in Bengaluru, India. Open to freelance pentesting, red teaming, and security audit engagements.
-
-[Portfolio](https://me.xeea.net/) · [LinkedIn](https://www.linkedin.com/in/vineeth-kumar-xeea/) · [Email](mailto:vi@xeea.net)
+Open to freelance pentesting and security audits. [See my consulting work](https://me.xeea.net/impact) or [email me](mailto:vi@xeea.net).
